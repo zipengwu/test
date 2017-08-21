@@ -1,0 +1,30 @@
+[
+    {"value": "a"},
+    {"value": 2},
+    {"value": 4},
+    {"value": null},
+    {"value": 6},
+    {"value": "b"},
+    {"value": "a"},
+    {"value": "c"},
+    {"value": [
+        {"value": "a"},
+        {"value": 2},
+        {"value": 4},
+        {"value": null},
+        {"value": 6},
+        {"value": "b"},
+        {"value": "a"},
+        {"value": "c"},
+        {"value": [
+            {"value": "a"},
+            {"value": 2},
+            {"value": 4},
+            {"value": null},
+            {"value": 6},
+            {"value": "b"},
+            {"value": "a"},
+            {"value": "c"}
+        ]}
+    ]}
+]
